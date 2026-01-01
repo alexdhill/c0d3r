@@ -1,0 +1,6 @@
+# Python runs
+**/__pycache__
+
+# Development
+playground/
+tests/
